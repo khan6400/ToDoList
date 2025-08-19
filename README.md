@@ -1,4 +1,4 @@
-# 📋 khan6400sTO DO LIST APP v1.0
+# 📋 TO DO LIST APP
 
 > A simple yet powerful CLI-based To-Do List app built with Python 🐍, designed to keep your tasks organized and persistent across sessions 💾.
 
